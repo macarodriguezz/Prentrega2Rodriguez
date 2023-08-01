@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&family=Lilita+One&family=Montserrat&display=swap');
+
+body{
+    font-family: 'Lilita One', cursive;
+    background-color:black;
+    margin: 0;
+}
+
+h1{
+    color: rgba(255, 255, 0, 0.703);
+    background-color: black;
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+    font-size: 55px;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+  padding: 20px;
+}
+
+.menu{ 
+  text-decoration: none;
+  color: rgba(255, 255, 0, 0.703);
+}  
+
+.foto{
+    align-items: center;
+
+}
+    
+.final{
+    background-color: #c29c07;
+    color: rgb(7, 7, 7);
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    padding-left: 20px;
+}
+img.img3{
+  width: 50px;
+}
+img.chica{
+    width: 30px;
+  }
+img.pequeña{
+    width: 200px;
+  }
+img.mediana{
+    width: 100px;
+    height: 100px;
+  }
+img.grande{
+    width: 200px;
+    height: 200px;
+  }
