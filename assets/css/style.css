@@ -11,7 +11,7 @@ h1{
     background-color: black;
     text-align: center;
     font-family: 'Lilita One', cursive;
-    font-size: 55px;
+    font-size: 40px;
 }
 
 header {
@@ -86,4 +86,14 @@ footer {
 
 .footer-info {
     text-align: left;
+}
+
+
+.grid-container-mapa{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  color: rgba(255, 255, 0, 0.703);  
+  column-gap: 10px;
+  row-gap: 15px;
 }
