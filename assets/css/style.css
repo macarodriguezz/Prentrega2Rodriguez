@@ -23,9 +23,15 @@ header{
   padding: 20px;
 }
 
-.mapa{
+.grid-container{
+  display: grid;
   align-items: center;
+  justify-items: center;
+  color: rgba(255, 255, 0, 0.703);  
+  column-gap: 10px;
+  row-gap: 15px;
 }
+
 .menu{ 
   text-decoration: none;
   color: rgba(255, 255, 0, 0.703);
